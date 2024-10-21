@@ -1,0 +1,10 @@
+{
+    "companies": {
+        "Smart Vision": {
+            "open": true
+        },
+        "Zamil": {
+            "open": false
+        }
+    }
+}
